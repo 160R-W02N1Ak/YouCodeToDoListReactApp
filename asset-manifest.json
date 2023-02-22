@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YouCodeToDoListReactApp/static/css/main.c80b8953.css",
+    "main.js": "/YouCodeToDoListReactApp/static/js/main.2b8ccfe3.js",
+    "static/js/787.3ed618d4.chunk.js": "/YouCodeToDoListReactApp/static/js/787.3ed618d4.chunk.js",
+    "index.html": "/YouCodeToDoListReactApp/index.html",
+    "main.c80b8953.css.map": "/YouCodeToDoListReactApp/static/css/main.c80b8953.css.map",
+    "main.2b8ccfe3.js.map": "/YouCodeToDoListReactApp/static/js/main.2b8ccfe3.js.map",
+    "787.3ed618d4.chunk.js.map": "/YouCodeToDoListReactApp/static/js/787.3ed618d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c80b8953.css",
+    "static/js/main.2b8ccfe3.js"
+  ]
+}
