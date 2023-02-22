@@ -21,6 +21,8 @@ https://160r-w02n1ak.github.io/YouCodeToDoListReactApp/
 4. JavaScript
 5. Normalize
 6. React
+7. WebPac
+8. Babel
 
 ### Features
 
@@ -28,3 +30,4 @@ https://160r-w02n1ak.github.io/YouCodeToDoListReactApp/
 2. Marking ready tasks
 3. Hiding ready tasks
 4. Setting all tasks ready with one button
+
