@@ -1,0 +1,15 @@
+.section__header {
+  border-bottom: 1px solid  #ddd;
+ display: grid;
+ grid-template-columns: auto auto;
+ justify-content: space-between;
+ align-items: center;
+ grid-gap: 20px;
+ padding: 20px;;
+}
+
+.section__header__title {
+  margin: 0;
+  text-decoration: solid;
+  font-size: 20px;
+}

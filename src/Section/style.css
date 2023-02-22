@@ -1,0 +1,12 @@
+.section__body {
+  padding: 20px;
+  display: block;
+}
+
+.section {
+  background-color: white;
+  margin: 10px 0;
+  box-shadow: 0 0 5px #ddd;
+}
+
+
