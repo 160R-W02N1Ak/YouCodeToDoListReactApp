@@ -1,7 +1,7 @@
 # You Code Homework : Lista zadań przeniesiona do React 
 
 ## Demo
-https://160r-w02n1ak.github.io/YouCodeToDoListReact/
+https://160r-w02n1ak.github.io/YouCodeToDoListReactApp/
 
 
 ![screenshot](https://github.com/160R-W02N1Ak/YouCodeToDoListReact/blob/main/src/Images/To%20do%20Lista%20zadań.png?raw=true)
