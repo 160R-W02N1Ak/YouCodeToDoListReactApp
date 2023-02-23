@@ -18,8 +18,19 @@
   cursor: pointer;
 }
 
+.buttons__button:active {
+  color: hsl(180, 100%, 35%);
+}
+
 .buttons__button:disabled {
   color: #ccc;
+}
+
+@media(max-width:767px) {
+  .buttons__button {
+      flex-basis: 100%;
+      margin: 10px;
+  }
 }
  
 
