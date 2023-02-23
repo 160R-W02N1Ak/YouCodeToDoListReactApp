@@ -1,5 +1,5 @@
 .section__header {
-  border-bottom: 1px solid  #ddd;
+border-bottom: 1px solid  #ddd;
  display: grid;
  grid-template-columns: auto auto;
  justify-content: space-between;

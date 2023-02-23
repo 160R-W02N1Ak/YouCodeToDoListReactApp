@@ -2,17 +2,13 @@ html {
   box-sizing: border-box;
 }
 
-:after, ::before {
+*, ::after, ::before {
   box-sizing: inherit;
 }
 
-.body {
-  background-color: #eee;
-  font-family: lato, sans-serif;
-  max-width: 900px;
-  padding: 20px;
-  margin: 0 auto;
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #eee;
   word-break: break-word;
-  display: block;
 }
 
